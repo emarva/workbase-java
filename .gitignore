@@ -1,0 +1,8 @@
+#ignorar miniaturas creadas por windows
+Thumbs.db
+#Ignorar archivos Java
+*.class
+build/
+nbproject/
+dist/
+build.xml
